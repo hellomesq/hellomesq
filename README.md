@@ -8,17 +8,11 @@
 
 <h3 align="left">🚀 Fullstack Developer & Software Development Student</h3>
 
-<p align="justify">Currently, I work as a teacher at a programming school, where I teach young people <br>
-   how to develop projects using widely adopted technologies. <br>
-   This experience strengthens my skills in full-stack development, problem-solving and <br>
-   technical communication. <br>
-   With 4 years of study and 1 year of professional experience, I combine logic and creativity <br>
-   to build efficient solutions.</p>
+<p align="justify">Currently, I work as a teacher at a programming school, where I teach young people how to develop projects using widely adopted technologies. <br> This experience strengthens my skills in full-stack development, problem-solving and technical communication.<br> With 4 years of study and 1 year of professional experience, I combine logic and creativity to build efficient solutions.</p>
 
 <h3 align="left">🎨 Building Experiences from Prototype to Code</h3>
 
-<p align="left">Passionate about turning ideas into functional products, from design to implementation, <br>
-  with a focus on frontend and a strategic approach to backend.</p>
+<p align="left">Passionate about turning ideas into functional products, from design to implementation, with a focus on frontend and a strategic approach to backend.</p>
 
 ###
 
