@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🚀 Fullstack Developer & Software Development Student</h3>
+<h3 align="left">🚀 Fullstack Developer and Systems Analysis and Development Student</h3>
 
 <p align="justify">Currently, I work as a teacher at a programming school, where I teach young people <br>
   how to develop projects using widely adopted technologies. <br> 
