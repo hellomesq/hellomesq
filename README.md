@@ -2,17 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
-
-###
-
 <h3 align="left">Sobre mim</h3>
 
 <p align="justify">
-  Crio interfaces modernas, acessíveis e performáticas, transformando ideias  <br>
-  em produtos funcionais e impactantes. Tenho experiência em todo o processo  <br> 
-  de desenvolvimento de software, da prototipação à implementação, unindo lógica,<br>
-  design e usabilidade para entregar soluções eficientes e com propósito. 
+  Crio interfaces modernas, acessíveis e performáticas, transformando ideias em produtos funcionais e impactantes.  <br>
+  Tenho experiência em todo o processo de desenvolvimento de software, da prototipação à implementação, unindo lógica, design e usabilidade para entregar soluções eficientes e com propósito. 
   
 ###
 
