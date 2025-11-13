@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello+World!+I'm+Heloisa+Alves.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-###
-
 <h3 align="left">Sobre mim</h3>
 
 <p align="justify">Minha jornada na tecnologia nasceu da curiosidade em entender como ideias ganham forma através do código. Hoje, como desenvolvedora full stack, transformo conceitos em experiências digitais funcionais e acessíveis. Busco unir lógica, design e propósito para construir produtos que conectem pessoas e tecnologia de forma simples e eficiente.
