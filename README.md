@@ -4,7 +4,7 @@
 
 <h3 align="left">Sobre mim</h3>
 
-<p align="justify">Minha jornada na tecnologia nasceu da curiosidade em entender como ideias ganham forma através do código. Hoje, como desenvolvedora full stack com foco em front-end, transformo conceitos em experiências digitais funcionais e acessíveis. Busco unir lógica, design e propósito para construir produtos que conectem pessoas e tecnologia de forma simples e eficiênte.
+<p align="justify">Minha jornada na tecnologia nasceu da curiosidade em entender como ideias ganham forma através do código. Hoje, como desenvolvedora full stack, transformo conceitos em experiências digitais funcionais e acessíveis. Busco unir lógica, design e propósito para construir produtos que conectem pessoas e tecnologia de forma simples e eficiente.
   
 ###
 
