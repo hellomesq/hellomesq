@@ -1,14 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello+World!+I'm+Heloisa+Alves.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 <h3 align="left">Sobre mim</h3>
-
 <p align="justify">Minha jornada na tecnologia nasceu da curiosidade em entender como ideias ganham forma através do código. Hoje, como desenvolvedora full stack, transformo conceitos em experiências digitais funcionais e acessíveis. Busco unir lógica, design e propósito para construir produtos que conectem pessoas e tecnologia de forma simples e eficiente.
-  
-###
 
 <h3 align="left">Stacks</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -36,21 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
-
 <h3 align="left">📊 GitHub Stats</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellomesq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <h3 align="left">Entre em contato</h3>
-
-###
 
 <div align="left">
   <a href="mailto:helo.alvz@gmail.com" target="_blank">
