@@ -9,8 +9,8 @@
 <h3 align="left">Sobre mim</h3>
 
 <p align="justify">
-  Crio **interfaces modernas, acessíveis e performáticas**, transformando ideias em **produtos funcionais e impactantes**. <br>
-  Tenho experiência em todo o processo de **desenvolvimento de software**, da **prototipação à implementação**, unindo **lógica, design e usabilidade** para entregar **soluções eficientes e com propósito**. <br>
+  Crio interfaces modernas, acessíveis e performáticas, transformando ideias em produtos funcionais e impactantes. <br>
+  Tenho experiência em todo o processo de desenvolvimento de software, da prototipação à implementação, unindo lógica, design e usabilidade para entregar soluções eficientes e com propósito. <br>
   
 ###
 
