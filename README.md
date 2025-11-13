@@ -6,22 +6,15 @@
 
 ###
 
-<h3 align="left">🚀 Fullstack Developer and Systems Analysis and Development Student</h3>
+<h3 align="left">Sobre mim</h3>
 
-<p align="justify">Currently, I work as a teacher at a programming school, where I teach young people <br>
-  how to develop projects using widely adopted technologies. <br> 
-  This experience strengthens my skills in full-stack development, problem-solving <br>
-  and technical communication.<br> 
-  With 4 years of study and 1 year of professional experience, I combine logic and <br>
-  creativity to build efficient solutions.</p>
-
-<h3 align="left">🎨 Building Experiences from Prototype to Code</h3>
-
-<p align="left">Passionate about turning ideas into functional products, from design to implementation, with a focus on frontend and a strategic approach to backend.</p>
-
+<p align="justify">
+  Crio **interfaces modernas, acessíveis e performáticas**, transformando ideias em **produtos funcionais e impactantes**. <br>
+  Tenho experiência em todo o processo de **desenvolvimento de software**, da **prototipação à implementação**, unindo **lógica, design e usabilidade** para entregar **soluções eficientes e com propósito**. <br>
+  
 ###
 
-<h3 align="left">🛠️ Technologies & Tools</h3>
+<h3 align="left">Stacks</h3>
 
 ###
 
@@ -63,7 +56,7 @@
 
 ###
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h3 align="left">Entre em contato</h3>
 
 ###
 
