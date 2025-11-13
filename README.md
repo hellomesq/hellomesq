@@ -4,9 +4,7 @@
 
 <h3 align="left">Sobre mim</h3>
 
-<p align="justify">
-  Crio interfaces modernas, acessíveis e performáticas, transformando ideias em produtos funcionais e impactantes.  <br>
-  Tenho experiência em todo o processo de desenvolvimento de software, da prototipação à implementação, unindo lógica, design e usabilidade para entregar soluções eficientes e com propósito. 
+<p align="justify">Minha jornada na tecnologia nasceu da curiosidade em entender como ideias ganham forma através do código. Hoje, como desenvolvedora full stack com foco em front-end, transformo conceitos em experiências digitais funcionais e acessíveis. Busco unir lógica, design e propósito para construir produtos que conectem pessoas e tecnologia de forma simples e eficiênte.
   
 ###
 
